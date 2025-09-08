@@ -1,6 +1,6 @@
 ﻿// HW1a Sales Total
 
-// Your Name:
+// Your Name:Kate de Mahy
 // Did you seek help ? If yes, specify the helper or web link here: 
 
 using System;
