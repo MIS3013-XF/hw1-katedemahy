@@ -13,7 +13,7 @@ namespace HW1a_Sales
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[hi] args)
         {
         }
     }
